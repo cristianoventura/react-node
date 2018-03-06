@@ -1,0 +1,24 @@
+{
+    "teams":[
+        {
+            "title": "Manchester Utd.",
+            "league": "Premier League"
+        },
+        {
+            "title": "Barcelona",
+            "league": "La Liga"
+        },
+        {
+            "title": "Munchen Bayern",
+            "league": "Bundesliga"
+        },
+        {
+            "title": "Sao Paulo",
+            "league": "Brasileirao"
+        },
+        {
+            "title": "PSG",
+            "league": "League 1"
+        }
+    ]
+}
